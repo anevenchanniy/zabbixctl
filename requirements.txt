@@ -1,0 +1,5 @@
+pyzabbix
+prettytable
+argparse
+setuptools
+pbr>=1.6
